@@ -53,6 +53,14 @@ class Louis:
 
 ---
 
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mibayy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -64,6 +72,18 @@ class Louis:
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mibayy&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mibayy/Mibayy/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mibayy/Mibayy/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mibayy/Mibayy/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
 </div>
 
 ---
