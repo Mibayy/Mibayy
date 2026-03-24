@@ -1,14 +1,10 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+I'm+Louis+%F0%9F%91%8B;Independent+dev+%26+AI+experimenter;Building+things+that+shouldn't+work+%F0%9F%A4%96;...+but+somehow+do" alt="Typing SVG" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:7B2FFF&height=220&section=header&text=Hey,%20I'm%20Louis%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Independent%20dev%20%E2%80%94%20pushing%20AI%20to%20its%20limits&descAlignY=58&descSize=20&descFontColor=aaaaaa" width="100%"/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="coding"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+things+that+shouldn't+work...;...+but+somehow+do+%F0%9F%A4%96;AI+agents+%7C+Web+apps+%7C+Trading+bots;Ship+it.+Break+it.+Learn.+Repeat." alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mibayy&style=flat-square&color=00d9ff" alt="profile views"/>
-</div>
+<br/>
 
 ---
 
@@ -45,27 +41,31 @@ class Louis:
 
 ## 🚀 What I'm building
 
+<div align="center">
+
 | Project | Description | Status |
-|---------|-------------|--------|
+|:-------:|:-----------:|:------:|
 | 🏃 **Letsfive** | Platform for sports & fitness sessions | 🔨 Active |
 | 🤖 **GitMate** | Autonomous AI agent for GitLab repos | ✅ Shipped |
 | 📈 **Sirius** | Crypto trading bot with a taste for pain | ⚗️ Experimenting |
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mibayy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mibayy&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mibayy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="170em" src="https://streak-stats.demolab.com?user=Mibayy&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mibayy&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mibayy&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
 
-<div align="center">
-  <i>⚡ "The best way to understand AI limits is to build things that hit them."</i>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FFF,50:00D9FF,100:0D1117&height=120&section=footer" width="100%"/>
