@@ -41,6 +41,8 @@ class Louis:
 | 🏃 **Letsfive** | Platform for sports & fitness sessions | 🔨 Active |
 | 🎭 **Improvence** | Theatre troupe management app | 🔨 Active |
 | 🤖 **Hermes** | Autonomous AI agent framework | ⚗️ Evolving |
+| 🧠 **hermes-memory** | Persistent structured memory for LLM agents — MCP-native, SQLite, zero infra | 🚀 Published |
+| 🔍 **mcp-codebase-index** | Structural codebase indexer for LLMs — 87% token reduction, 17 query tools | 🚀 Published |
 | 📈 **Sirius** | Crypto trading bot with a taste for pain | ⚗️ Experimenting |
 
 </div>
@@ -51,7 +53,11 @@ class Louis:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mibayy&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+![Louis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mibayy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mibayy&layout=compact&theme=tokyonight&hide_border=true)
 
 <br/>
 
