@@ -26,14 +26,7 @@ class Louis:
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=py,ts,js,nextjs,react,fastapi,supabase,postgres,docker,nginx,tailwind,git&theme=dark&perline=6)](https://skillicons.dev)
 
 </div>
 
@@ -46,18 +39,24 @@ class Louis:
 | Project | Description | Status |
 |:-------:|:-----------:|:------:|
 | 🏃 **Letsfive** | Platform for sports & fitness sessions | 🔨 Active |
-| 🤖 **GitMate** | Autonomous AI agent for GitLab repos | ✅ Shipped |
+| 🎭 **Improvence** | Theatre troupe management app | 🔨 Active |
+| 🤖 **Hermes** | Autonomous AI agent framework | ⚗️ Evolving |
 | 📈 **Sirius** | Crypto trading bot with a taste for pain | ⚗️ Experimenting |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Profile
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mibayy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-  <img height="170em" src="https://streak-stats.demolab.com?user=Mibayy&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mibayy&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mibayy&color=7B2FFF&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
 <br/>
