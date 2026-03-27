@@ -53,11 +53,11 @@ class Louis:
 
 <div align="center">
 
-![Louis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mibayy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Louis's GitHub stats](https://github-readme-stats-ten-beta-37.vercel.app/api?username=Mibayy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mibayy&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-ten-beta-37.vercel.app/api/top-langs/?username=Mibayy&layout=compact&theme=tokyonight&hide_border=true)
 
 <br/>
 
