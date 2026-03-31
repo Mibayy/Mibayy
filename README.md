@@ -42,7 +42,7 @@ class Louis:
 | 🎭 **Improvence** | Theatre troupe management app | 🔨 Active |
 | 🤖 **Hermes** | Autonomous AI agent framework | ⚗️ Evolving |
 | 🧠 **hermes-memory** | Persistent structured memory for LLM agents — MCP-native, SQLite, zero infra | 🚀 Published |
-| 🔍 **mcp-codebase-index** | Structural codebase indexer for LLMs — 87% token reduction, 17 query tools | 🚀 Published |
+| 🔍 **Token Savior** | Structural codebase indexer for LLMs — symbol-level queries, 87% token reduction, MCP-native | 🚀 Published |
 | 📈 **Sirius** | Crypto trading bot with a taste for pain | ⚗️ Experimenting |
 
 </div>
