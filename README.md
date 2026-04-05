@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:7B2FFF&height=220&section=header&text=Hey,%20I'm%20Louis%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Independent%20dev%20%E2%80%94%20pushing%20AI%20to%20its%20limits&descAlignY=58&descSize=20&descFontColor=aaaaaa" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+things+that+shouldn't+work...;...+but+somehow+do+%F0%9F%A4%96;AI+agents+%7C+Web+apps+%7C+Trading+bots;Ship+it.+Break+it.+Learn.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+things+that+shouldn't+work...;...+but+somehow+do+%F0%9F%A4%96;AI+agents+%7C+MCP+servers+%7C+Web+apps;Claude+Code+on+mobile+%F0%9F%93%B1;Ship+it.+Break+it.+Learn.+Repeat." alt="Typing SVG" />
 </div>
 
 <br/>
@@ -14,10 +14,10 @@
 class Louis:
     role       = "Independent dev"
     obsession  = "Pushing AI to its limits"
-    current    = ["Letsfive 🏃", "Autonomous agents 🦾", "Trading bots 📈"]
+    current    = ["Letsfive 🏃", "Claude Code tooling 🔍", "MCP servers ⚙️"]
     stack      = ["Next.js", "Python", "FastAPI", "Supabase"]
     philosophy = "Ship it. Break it. Learn. Repeat."
-    ask_me     = "anything about AI agents, LLMs, or why my bot is losing money"
+    ask_me     = "anything about AI agents, LLMs, or Claude Code internals"
 ```
 
 ---
@@ -42,8 +42,8 @@ class Louis:
 | 🎭 **Improvence** | Theatre troupe management app | 🔨 Active |
 | 🤖 **Hermes** | Autonomous AI agent framework | ⚗️ Evolving |
 | 🧠 **hermes-memory** | Persistent structured memory for LLM agents — MCP-native, SQLite, zero infra | 🚀 Published |
-| 🔍 **Token Savior** | Structural codebase indexer for LLMs — symbol-level queries, 87% token reduction, MCP-native | 🚀 Published |
-| 📈 **Sirius** | Crypto trading bot with a taste for pain | ⚗️ Experimenting |
+| 🔍 **Token Savior** | Structural codebase MCP server — symbol-level queries, dependency graphs, 87% token reduction | 🚀 Published |
+| 📱 **Claude Telegram Bot** | Full Claude Code access from your phone — live streaming, tool approvals, voice/PDF/URL | 🚀 Published |
 
 </div>
 
